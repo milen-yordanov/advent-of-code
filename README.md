@@ -1,1 +1,1 @@
-# advent-of-code
+Solutions of http://adventofcode.com programming puzzles
