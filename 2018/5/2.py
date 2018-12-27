@@ -1,7 +1,5 @@
 # See: https://adventofcode.com/2018/day/5#part2
 
-# See: https://adventofcode.com/2018/day/5#part1
-
 import re
 
 input_file_name = 'input.txt'
